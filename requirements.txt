@@ -1,0 +1,10 @@
+opencv-python
+Pillow
+numpy
+torch
+torchvision
+tensorflow
+shapely
+geopandas
+freecad
+ifcopenshell
